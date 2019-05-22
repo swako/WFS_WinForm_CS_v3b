@@ -1,5 +1,5 @@
-# WFS_WinForm_CS_v3b
-WFS Sample Program - External Reference
+# Thorlabs_WFS_WinForm_CS
+WFS Sample Program - User Reference
 
 CreateDefaultUserReference  
 SetSampleRefplane to 0 (Internal)  
